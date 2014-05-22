@@ -1,0 +1,4 @@
+mynewapp
+========
+
+New Ember App
